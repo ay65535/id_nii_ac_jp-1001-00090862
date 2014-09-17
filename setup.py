@@ -8,5 +8,6 @@ setup(
     license='',
     author='',
     author_email='',
-    description=''
+    description='',
+    requires=['networkx']
 )
